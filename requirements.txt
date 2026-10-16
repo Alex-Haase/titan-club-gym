@@ -1,0 +1,7 @@
+langchain
+langchain-classic
+langchain-groq
+groq
+streamlit
+python-dotenv
+oracledb
